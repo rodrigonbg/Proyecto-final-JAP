@@ -22,7 +22,7 @@ Estudiante cursando los primeros años de la carrera de ingeniería en computaci
 Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
 
   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Especificación de requerimientos](https://docs.google.com/document/d/1j-NkweJs0nhwzWaxoo_LJa2YMS7DVkfx/edit?usp=sharing&ouid=107285287996134254810&rtpof=true&sd=true):
+  * [Especificación de requerimientos](https://drive.google.com/file/d/1qW6eync2VX8NmCh4u5WepUFkPpGBB7dD/view?usp=sharing):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/15RNO05GKgHlfWhN6S5pj1oeN4Fb9IXsO/edit?usp=sharing&ouid=107285287996134254810&rtpof=true&sd=true)
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/18qUDioaq0IMmDU0zOW4FDpYPCZnXxOIk/edit?usp=sharing&ouid=107285287996134254810&rtpof=true&sd=true)
   * [Informe de pruebas](https://docs.google.com/document/d/1T2D-DctL93Jn8ppnF1juMeiBqiHQfIF4/edit?usp=sharing&ouid=107285287996134254810&rtpof=true&sd=true)
