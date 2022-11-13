@@ -20,7 +20,7 @@ Estudiante cursando los primeros años de la carrera de ingeniería en computaci
 
 ## Mi trabajo
 **Proyecto final de jovenes a programar**
-E-Commerce de capacitación: (https://japceibal.github.io/e-mercado-TESTING/index.html):
+E-Commerce de capacitación: https://japceibal.github.io/e-mercado-TESTING/index.html
 
   * [Especificación de requerimientos](https://drive.google.com/file/d/1qW6eync2VX8NmCh4u5WepUFkPpGBB7dD/view?usp=sharing):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/15RNO05GKgHlfWhN6S5pj1oeN4Fb9IXsO/edit?usp=sharing&ouid=107285287996134254810&rtpof=true&sd=true)
